@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<ArrayOfBookCreate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BookCreate>
+    <BookName>Гарри Поттер и узник Азкабана</BookName>
+    <Pereplet>Твердый</Pereplet>
+    <GodVipyska>2019</GodVipyska>
+    <Autor>Джоан Роулинг</Autor>
+    <KratkoeSoderjanie>Гарри взрослеет, и вместе с тем жить в Хогвартсе всё страшнее. Из тюрьмы для волшебников Азкабан сбежал опасный преступник -...</KratkoeSoderjanie>
+    <KolvoStranic>544</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Зелёная миля</BookName>
+    <Pereplet>Мягкий</Pereplet>
+    <GodVipyska>2014</GodVipyska>
+    <Autor>Стивен Кинг</Autor>
+    <KratkoeSoderjanie>Стивен Кинг приглашает читателей в жуткий мир тюремного блока смертников, откуда уходят, чтобы не вернуться, приоткрывает дверь последнего пристанища тех, кто преступил не только человеческий, но и Божий закон.</KratkoeSoderjanie>
+    <KolvoStranic>384</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Унесенные ветром</BookName>
+    <Pereplet>Мягкий</Pereplet>
+    <GodVipyska>2020</GodVipyska>
+    <Autor>Маргарет Митчелл</Autor>
+    <KratkoeSoderjanie>Роман Маргарет Митчелл вышел в свет в 1936 году и имел феноменальный успех у читателей. Только в первые годы его тираж превысил три миллиона, и «Унесенные ветром» были признаны «книгой века».</KratkoeSoderjanie>
+    <KolvoStranic>1088</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Свита короля</BookName>
+    <Pereplet>Твердый</Pereplet>
+    <GodVipyska>2021</GodVipyska>
+    <Autor>Нора Сакавич</Autor>
+    <KratkoeSoderjanie>Время на исходе. Оказавшись в Университете Пальметто, Нил Джостен знал, что не доживет до конца года, но теперь, когда смерть не за горами, он больше чем прежде хочет жить. Дружба с Лисами была опрометчивой затеей, а поцелуй с одним из них — затеей немыслимой.</KratkoeSoderjanie>
+    <KolvoStranic>560</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Прислуга</BookName>
+    <Pereplet>Твердый</Pereplet>
+    <GodVipyska>2011</GodVipyska>
+    <Autor>Кэтрин Стокетт</Autor>
+    <KratkoeSoderjanie>Американский Юг, на дворе 1960-е годы. Скитер только-только закончила университет и возвращается домой, в сонный городок Джексон, где никогда ничего не происходит. Она мечтает стать писательницей, вырваться в большой мир.</KratkoeSoderjanie>
+    <KolvoStranic>576</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Возвращение государя</BookName>
+    <Pereplet>Мягкий</Pereplet>
+    <GodVipyska>1994</GodVipyska>
+    <Autor>Джон Р. Р. Толкиен</Autor>
+    <KratkoeSoderjanie>В четвертый том собрания сочинений Дж. Р. Р. Толкиена вошла заключительная летопись сказочной трилогии "Властелин Колец" "Возвращение государя", из которой юный читатель узнает о последней битве светлых и темных сил, о дальнейшей судьбе Фродо, Сэма, Арагорна и других полюбившихся героев.</KratkoeSoderjanie>
+    <KolvoStranic>350</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Буря мечей</BookName>
+    <Pereplet>Мягкий</Pereplet>
+    <GodVipyska>2008</GodVipyska>
+    <Autor>Джордж Мартин</Autor>
+    <KratkoeSoderjanie>Перед вами - знаменитая эпопея "Песнь льда и огня". Эпическая, чеканная сага о мире Семи Королевств. О мире суровых земель вечного холода и радостных земель вечного лета.</KratkoeSoderjanie>
+    <KolvoStranic>952</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Пустая могила</BookName>
+    <Pereplet>Твердый</Pereplet>
+    <GodVipyska>2018</GodVipyska>
+    <Autor>Джонатан Страуд</Autor>
+    <KratkoeSoderjanie>Узнав, что Марисса Фиттис, основательница крупнейшего в Лондоне агентства по борьбе с призраками, вовсе не умерла много лет назад, мы решили пробраться в ее усыпальницу и вскрыть гроб.</KratkoeSoderjanie>
+    <KolvoStranic>480</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Продажное королевство</BookName>
+    <Pereplet>Твердый</Pereplet>
+    <GodVipyska>2018</GodVipyska>
+    <Autor>Ли Бардуго</Autor>
+    <KratkoeSoderjanie>Казу Бреккеру и его команде удалось провернуть столь дерзкое похищение, что они и сами не поняли, как остались в живых. Но обещанная заоблачная награда уплывает из рук, и юные изгои вынуждены снова бороться за свою жизнь.</KratkoeSoderjanie>
+    <KolvoStranic>672</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>О всех созданиях - больших и малых</BookName>
+    <Pereplet>Твердый</Pereplet>
+    <GodVipyska>2001</GodVipyska>
+    <Autor>Джеймс Хэрриот</Autor>
+    <KratkoeSoderjanie>1937 год, молодой ветеринар Джеймс Хэрриот пребывает в Дарроуби, небольшой городок в Англии. Местный ветеринар Зигфрид Фарнон сразу берет его в помощники и Джеймс с энтузиазмом берется за дело.</KratkoeSoderjanie>
+    <KolvoStranic>480</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Крестный отец</BookName>
+    <Pereplet>Твердый</Pereplet>
+    <GodVipyska>2002</GodVipyska>
+    <Autor>Марио Пьюзо</Autor>
+    <KratkoeSoderjanie>Роман, опубликованный в 1969 году, вознес Марио Пьюзо на вершину американского литературного Олимпа. Это был потрясающий триумф, и, как показало время, сага о клане дона Вито Корлеоне до сей поры остается лучшим произведением о мафии.</KratkoeSoderjanie>
+    <KolvoStranic>592</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Вторая жизнь Уве</BookName>
+    <Pereplet>Мягкий</Pereplet>
+    <GodVipyska>2021</GodVipyska>
+    <Autor>Фредрик Бакман</Autor>
+    <KratkoeSoderjanie>На первый взгляд Уве — самый угрюмый человек на свете. Он, как и многие из нас, полагает, что его окружают преимущественно идиоты — соседи, которые неправильно паркуют свои машины; продавцы в магазине, говорящие на птичьем языке; бюрократы, портящие жизнь нормальным людям.</KratkoeSoderjanie>
+    <KolvoStranic>384</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Искра жизни</BookName>
+    <Pereplet>Твердый</Pereplet>
+    <GodVipyska>2019</GodVipyska>
+    <Autor>Эрих Мария Ремарк</Autor>
+    <KratkoeSoderjanie>Конец войны. Германия. Концлагерь вблизи вымышленного города Меллерн. Большинство пленников отказываются от надежды когда-нибудь оказаться на свободе. Но есть те, кто еще верит в спасение. И это дает им силы жить и мечтать о будущем. Ведь пока в них теплится Искра жизни, они чувствуют себя людьми...</KratkoeSoderjanie>
+    <KolvoStranic>480</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Часодеи. Часовая битва</BookName>
+    <Pereplet>Твердый</Pereplet>
+    <GodVipyska>2015</GodVipyska>
+    <Autor>Наталья Щерба</Autor>
+    <KratkoeSoderjanie>В шестой, завершающей книге ЧАСОДЕЕВ героев саги Василису и Фэша ждут невероятные испытания. Близится роковой час - наступает решающая битва за трон Времени.</KratkoeSoderjanie>
+    <KolvoStranic>400</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Выбор. О свободе и внутренней силе человека</BookName>
+    <Pereplet>Мягкий</Pereplet>
+    <GodVipyska>2019</GodVipyska>
+    <Autor>Эдит Ева Эгер</Autor>
+    <KratkoeSoderjanie>В 1944 году шестнадцатилетняя балерина Эдит Эгер была отправлена вместе со своей семьей в Аушвиц. Спустя всего несколько часов после гибели ее родителей нацистский доктор Йозеф Менгеле заставил Эдит танцевать ради собственной забавы и ее выживания.</KratkoeSoderjanie>
+    <KolvoStranic>344</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Отверженные</BookName>
+    <Pereplet>Твердый</Pereplet>
+    <GodVipyska>2020</GodVipyska>
+    <Autor>Виктор Гюго</Autor>
+    <KratkoeSoderjanie>Знаменитый роман-эпопея Виктора Гюго о жизни людей, отвергнутых обществом. Среди ""отверженных"" Жан Вальжан, осужденный на двадцать лет каторги за то, что украл хлеб для своей голодающей семьи, маленькая Козетта, превратившаяся в очаровательную девушку, жизнерадостный уличный сорванец Гаврош.</KratkoeSoderjanie>
+    <KolvoStranic>768</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Мастер и Маргарита</BookName>
+    <Pereplet>Мягкий</Pereplet>
+    <GodVipyska>2006</GodVipyska>
+    <Autor>Михаил Булгаков</Autor>
+    <KratkoeSoderjanie>В книгу великого русского писателя Михаила Афанасьевича Булгакова (1891 - 1940) включены сочинения, в которых автор проявил свою склонность к проникновению в явления "мистические".</KratkoeSoderjanie>
+    <KolvoStranic>480</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Королевство гнева и тумана</BookName>
+    <Pereplet>Мягкий</Pereplet>
+    <GodVipyska>2021</GodVipyska>
+    <Autor>Сара Дж. Маас</Autor>
+    <KratkoeSoderjanie>Фейра уже не та простая смертная девушка, какой была на землях людей. Здесь, в Притиании, она обрела бессмертие, развила магические способности, ее возлюбленный — верховный правитель Двора весны, и скоро состоится их свадьба.</KratkoeSoderjanie>
+    <KolvoStranic>704</KolvoStranic>
+  </BookCreate>
+  <BookCreate>
+    <BookName>Лабиринт Мёнина</BookName>
+    <Pereplet>Твердый</Pereplet>
+    <GodVipyska>2012</GodVipyska>
+    <Autor>Макс Фрай</Autor>
+    <KratkoeSoderjanie>Если в один прекрасный день король исчезает из дворца - это еще полбеды. Когда выясняется, что Его Величество легкомысленно отправился на прогулку по лабиринту, которого, строго говоря, не существует, это уже серьезный повод для беспокойства.</KratkoeSoderjanie>
+    <KolvoStranic>224</KolvoStranic>
+  </BookCreate>
+</ArrayOfBookCreate>
